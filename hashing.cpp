@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+    int hashh[13]={0};
 
 int main(){
     int n;
@@ -15,10 +16,9 @@ int main(){
 
 
     // precompute
-    int hash[13]={0};
     for (int  i = 0; i < n; i++)
     {
-        hash[arr[i]]+=1;
+        hashh[arr[i]]+=1;
     }
 
     // fetching
@@ -30,7 +30,7 @@ int main(){
         cout<<"enter number"<<endl;
         cin>>number;
         // fetch
-        cout<<"The hash[number] is : "<<hash[number]<<endl;
+        cout<<"The hash[number] is : "<<hashh[number]<<endl;
     }
     
     
