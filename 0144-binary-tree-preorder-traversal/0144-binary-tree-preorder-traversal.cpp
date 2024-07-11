@@ -14,11 +14,36 @@ class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;
-        pre(root, ans);
+
+        // RECURSIVE APPROACH
+        // pre(root, ans);
+
+        if(root == NULL) return ans;
+        
+        stack<TreeNode*> st;
+        st.push(root);
+        while(!st.empty()){
+            TreeNode* node = st.top();
+            st.pop();
+            ans.push_back(node->val);
+            if(node->right != NULL){
+                st.push(node->right);
+            }
+            if(node->left != NULL){
+                st.push(node->left);
+            }
+
+        }
+
+
+
+
+
+
 
         return ans;
     }
-
+// this will use recursive approach
 private:
     void pre(TreeNode* node, vector<int>& ans) {
         if (node == nullptr)
