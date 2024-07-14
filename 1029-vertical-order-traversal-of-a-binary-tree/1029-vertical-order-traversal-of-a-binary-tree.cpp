@@ -20,14 +20,15 @@ public:
             ans.push_back(tmp);
             return ans;
         }
-        map<int , map<int , multiset<int>>> nodes;
+        map<int ,map<int , multiset<int>>> nodes;
         queue<pair<TreeNode* , pair<int , int>>> que;
         que.push({root , {0, 0}});
         while(!que.empty()){
             auto p = que.front();
             que.pop();
             TreeNode* node = p.first;
-            int x = p.second.first , y = p.second.second;
+            int x = p.second.first ;
+            int y = p.second.second;
             nodes[x][y].insert(node->val);
             if(node->left){
                 que.push({node->left ,{x-1 , y+1}});
