@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/imhimanshujainsinghai/DSA/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/imhimanshujainsinghai/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/imhimanshujainsinghai/DSA/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/imhimanshujainsinghai/DSA/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/imhimanshujainsinghai/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/imhimanshujainsinghai/DSA/tree/master/0890-lemonade-change) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/imhimanshujainsinghai/DSA/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/imhimanshujainsinghai/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/imhimanshujainsinghai/DSA/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/imhimanshujainsinghai/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Stack
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/imhimanshujainsinghai/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/imhimanshujainsinghai/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/imhimanshujainsinghai/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/imhimanshujainsinghai/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/imhimanshujainsinghai/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/imhimanshujainsinghai/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/imhimanshujainsinghai/DSA/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
