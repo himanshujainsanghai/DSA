@@ -1,5 +1,5 @@
 class Solution {
-public:
+private:
     bool dfs(int node, int col, vector<int>& color,
              vector<vector<int>>& graph) {
         color[node] = col;
@@ -11,9 +11,12 @@ public:
             } else if (color[it] == col) {
                 return false;
             }
+            
         }
         return true;
     }
+
+public:
     bool isBipartite(vector<vector<int>>& graph) {
         int n = graph.size();
         vector<int> color(n, -1);
