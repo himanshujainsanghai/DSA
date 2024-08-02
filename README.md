@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/imhimanshujainsinghai/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/imhimanshujainsinghai/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/imhimanshujainsinghai/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/imhimanshujainsinghai/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1803-average-waiting-time](https://github.com/imhimanshujainsinghai/DSA/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/imhimanshujainsinghai/DSA/tree/master/1829-maximum-units-on-a-truck) |
 ## Two Pointers
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/imhimanshujainsinghai/DSA/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/imhimanshujainsinghai/DSA/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/imhimanshujainsinghai/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/imhimanshujainsinghai/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/imhimanshujainsinghai/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/imhimanshujainsinghai/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/imhimanshujainsinghai/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Backtracking
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/imhimanshujainsinghai/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1753-path-with-minimum-effort](https://github.com/imhimanshujainsinghai/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/imhimanshujainsinghai/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/imhimanshujainsinghai/DSA/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/imhimanshujainsinghai/DSA/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/imhimanshujainsinghai/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -254,10 +259,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/imhimanshujainsinghai/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/imhimanshujainsinghai/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/imhimanshujainsinghai/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/imhimanshujainsinghai/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/imhimanshujainsinghai/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/imhimanshujainsinghai/DSA/tree/master/0820-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/imhimanshujainsinghai/DSA/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
