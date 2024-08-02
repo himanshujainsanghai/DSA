@@ -14,13 +14,23 @@ public:
         vector<int> drow = {-1,0,1,0};
         vector<int> dcol = {0,1,0,-1};
 
+
+        vector<vector<bool>> visited(n, vector<bool>(m, false));
         while(!pq.empty()){
             auto it = pq.top();
             pq.pop();
             int diff = it.first;
             int u = it.second.first;
             int v = it.second.second;
+            // If the cell is already visited, skip it
+            if (visited[u][v]) continue;
+
+            // Mark the cell as visited
+            visited[u][v] = true;
+
+
             if(u == n-1 && v == m-1) return diff;
+            
             for(int i =0 ; i<4 ; i++){
                 int nrow = u + drow[i];
                 int ncol = v + dcol[i];
