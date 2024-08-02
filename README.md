@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/imhimanshujainsinghai/DSA/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/imhimanshujainsinghai/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Stack
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/imhimanshujainsinghai/DSA/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/imhimanshujainsinghai/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/imhimanshujainsinghai/DSA/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/imhimanshujainsinghai/DSA/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/imhimanshujainsinghai/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/imhimanshujainsinghai/DSA/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/imhimanshujainsinghai/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/imhimanshujainsinghai/DSA/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/imhimanshujainsinghai/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/imhimanshujainsinghai/DSA/tree/master/0871-keys-and-rooms) |
 ## Union Find
@@ -269,5 +273,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/imhimanshujainsinghai/DSA/tree/master/1753-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
