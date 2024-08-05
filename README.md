@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/imhimanshujainsinghai/DSA/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imhimanshujainsinghai/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/imhimanshujainsinghai/DSA/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/imhimanshujainsinghai/DSA/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imhimanshujainsinghai/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/imhimanshujainsinghai/DSA/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/imhimanshujainsinghai/DSA/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/imhimanshujainsinghai/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/imhimanshujainsinghai/DSA/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/imhimanshujainsinghai/DSA/tree/master/1036-rotting-oranges) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/imhimanshujainsinghai/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/imhimanshujainsinghai/DSA/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/imhimanshujainsinghai/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1829-maximum-units-on-a-truck](https://github.com/imhimanshujainsinghai/DSA/tree/master/1829-maximum-units-on-a-truck) |
 ## Dynamic Programming
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/imhimanshujainsinghai/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/imhimanshujainsinghai/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -199,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/imhimanshujainsinghai/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/imhimanshujainsinghai/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/imhimanshujainsinghai/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -257,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/imhimanshujainsinghai/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/imhimanshujainsinghai/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/imhimanshujainsinghai/DSA/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/imhimanshujainsinghai/DSA/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/imhimanshujainsinghai/DSA/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/imhimanshujainsinghai/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
