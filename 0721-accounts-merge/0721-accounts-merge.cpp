@@ -83,8 +83,7 @@ public:
 
         vector<vector<string>> ans;
         for(int i =0 ; i<n ; i++){
-            if(mergedmail[i].size() == 0) continue;
-            else{
+            if(!mergedmail[i].empty()){
                 sort(mergedmail[i].begin() , mergedmail[i].end());
                 vector<string> temp;
                 temp.push_back(accounts[i][0]);
