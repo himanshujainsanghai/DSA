@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/imhimanshujainsinghai/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/imhimanshujainsinghai/DSA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/imhimanshujainsinghai/DSA/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/imhimanshujainsinghai/DSA/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/imhimanshujainsinghai/DSA/tree/master/1036-rotting-oranges) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/imhimanshujainsinghai/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/imhimanshujainsinghai/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/imhimanshujainsinghai/DSA/tree/master/0820-find-eventual-safe-states) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/imhimanshujainsinghai/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/imhimanshujainsinghai/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/imhimanshujainsinghai/DSA/tree/master/0820-find-eventual-safe-states) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0794-swim-in-rising-water](https://github.com/imhimanshujainsinghai/DSA/tree/master/0794-swim-in-rising-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/imhimanshujainsinghai/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1753-path-with-minimum-effort](https://github.com/imhimanshujainsinghai/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Monotonic Stack
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/imhimanshujainsinghai/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/imhimanshujainsinghai/DSA/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/imhimanshujainsinghai/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/imhimanshujainsinghai/DSA/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/imhimanshujainsinghai/DSA/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/imhimanshujainsinghai/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -283,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/imhimanshujainsinghai/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/imhimanshujainsinghai/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/imhimanshujainsinghai/DSA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/imhimanshujainsinghai/DSA/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/imhimanshujainsinghai/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/imhimanshujainsinghai/DSA/tree/master/1073-number-of-enclaves) |
@@ -298,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/imhimanshujainsinghai/DSA/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/imhimanshujainsinghai/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
