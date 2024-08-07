@@ -62,19 +62,21 @@ public:
         for(auto it: connections){
             int u = it[0];
             int v = it[1];
-            if(ds.findpar(u) == ds.findpar(v)){
-                cntE++;
+            if(ds.findpar(u) != ds.findpar(v)){
+                ds.unionBySize(u,v);
             }
-            else ds.unionBySize(u,v);
+            else{
+                cntE++;
+            } 
 
         }
-        int cntC =0;
+        int comp =0;
         for(int i =0 ; i<n ; i++){
-            if(ds.parent[i] == i) cntC++;
+            if(ds.parent[i] == i) comp++;
         }
         
-        if(cntE >= cntC-1){
-            return cntC-1;
+        if(cntE >= comp-1){
+            return comp-1;
         }
         return -1;
         
