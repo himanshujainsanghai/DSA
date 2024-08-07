@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/imhimanshujainsinghai/DSA/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/imhimanshujainsinghai/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/imhimanshujainsinghai/DSA/tree/master/1753-path-with-minimum-effort) |
+| [2793-count-the-number-of-complete-components](https://github.com/imhimanshujainsinghai/DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/imhimanshujainsinghai/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/imhimanshujainsinghai/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/imhimanshujainsinghai/DSA/tree/master/1753-path-with-minimum-effort) |
+| [2793-count-the-number-of-complete-components](https://github.com/imhimanshujainsinghai/DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/imhimanshujainsinghai/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/imhimanshujainsinghai/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/imhimanshujainsinghai/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2793-count-the-number-of-complete-components](https://github.com/imhimanshujainsinghai/DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
