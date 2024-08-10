@@ -38,8 +38,11 @@ public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
         // Create an adjacency list
         vector<vector<pair<int, int>>> adj(n + 1);
-        for (const auto& time : times) {
-            adj[time[0]].emplace_back(time[1], time[2]);
+        // for (const auto& time : times) {
+        //     adj[time[0]].emplace_back(time[1], time[2]);
+        // }
+        for(int i = 0; i < times.size(); i++){
+            adj[times[i][0]].push_back({times[i][1], times[i][2]});  
         }
 
         // Initialize the min-heap (priority queue)
