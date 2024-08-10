@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/imhimanshujainsinghai/DSA/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/imhimanshujainsinghai/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/imhimanshujainsinghai/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/imhimanshujainsinghai/DSA/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/imhimanshujainsinghai/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/imhimanshujainsinghai/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/imhimanshujainsinghai/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/imhimanshujainsinghai/DSA/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/imhimanshujainsinghai/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/imhimanshujainsinghai/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/imhimanshujainsinghai/DSA/tree/master/0820-find-eventual-safe-states) |
@@ -309,12 +312,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/imhimanshujainsinghai/DSA/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/imhimanshujainsinghai/DSA/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/imhimanshujainsinghai/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/imhimanshujainsinghai/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/imhimanshujainsinghai/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/imhimanshujainsinghai/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
