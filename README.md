@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/imhimanshujainsinghai/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/imhimanshujainsinghai/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/imhimanshujainsinghai/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/imhimanshujainsinghai/DSA/tree/master/0115-distinct-subsequences) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/imhimanshujainsinghai/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/imhimanshujainsinghai/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/imhimanshujainsinghai/DSA/tree/master/0135-candy) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/imhimanshujainsinghai/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/imhimanshujainsinghai/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/imhimanshujainsinghai/DSA/tree/master/0062-unique-paths) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/imhimanshujainsinghai/DSA/tree/master/0044-wildcard-matching) |
 | [1013-fibonacci-number](https://github.com/imhimanshujainsinghai/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
