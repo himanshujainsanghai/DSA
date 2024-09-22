@@ -50,19 +50,20 @@ public:
 
         // DP[N X 4] SOLUTION:
         // vector<vector<int>> dp(n+1 , vector<int>(5 , 0));
-        vector<int> ahead(5,0) , curr(5,0);
+        vector<int> ahead(5,0);
+        // vector<int> curr(5,0);
         // return trans(0 , 0, n ,p , dp);
         for(int ind =n-1 ; ind>=0 ; ind--){
             for(int t =0 ; t<=3 ; t++){
                 if(t%2 == 0){
-                curr[t] = max(-p[ind] + ahead[t+1] , ahead[t]);
+                ahead[t] = max(-p[ind] + ahead[t+1] , ahead[t]);
                 }
                 else{
-                curr[t] = max(p[ind] + ahead[t+1] , ahead[t]);
+                ahead[t] = max(p[ind] + ahead[t+1] , ahead[t]);
 
                 }
             }
-            ahead = curr;
+            // ahead = curr;
         }
         return ahead[0];
         
