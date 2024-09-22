@@ -23,22 +23,32 @@ public:
         // vector<vector<int>> dp(n + 1, vector<int>(2, 0));
         // return func(0 , 1 , p , n , dp);
         // dp[n][0] = dp[n][1] = 0;
-        vector<int> prev(2,0) , curr(2,0);
+        // vector<int> prev(2,0) , curr(2,0);
         // prev[0] = prev[1] = 0;
-        int profit =0;
+        // int profit = 0;
+        // for (int ind = n - 1; ind >= 0; ind--) {
+        //     for (int buy = 0; buy <= 1; buy++) {
+        //         if (buy) {
+        //             profit = max(-p[ind] + prev[0],
+        //                          prev[1]);
+        //         } else {
+        //             profit = max(prev[1] + p[ind],
+        //                         prev[0]);
+        //         }
+        //         curr[buy] = profit;
+        //     }
+        //     prev = curr;
+        // }
+        int aheadnotbuy, aheadbuy, currnotbuy, currbuy;
+        aheadnotbuy = aheadbuy = 0;
         for (int ind = n - 1; ind >= 0; ind--) {
-            for (int buy = 0; buy <= 1; buy++) {
-                if (buy) {
-                    profit = max(-p[ind] + prev[0],
-                                 prev[1]);
-                } else {
-                    profit = max(prev[1] + p[ind],
-                                prev[0]);
-                }
-                curr[buy] = profit;
-            }
-            prev = curr;
+            currbuy = max(-p[ind] + aheadnotbuy, aheadbuy);
+
+            currnotbuy = max(aheadbuy + p[ind], aheadnotbuy);
+            aheadnotbuy = currnotbuy;
+            aheadbuy = currbuy;
         }
-        return prev[1];
+
+        return aheadbuy;
     }
 };
