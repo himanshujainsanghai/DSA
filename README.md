@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/imhimanshujainsinghai/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/imhimanshujainsinghai/DSA/tree/master/0056-merge-intervals) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0039-combination-sum) |
 | [0126-word-ladder-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/imhimanshujainsinghai/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0494-target-sum) |
