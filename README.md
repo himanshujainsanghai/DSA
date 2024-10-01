@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/imhimanshujainsinghai/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imhimanshujainsinghai/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/imhimanshujainsinghai/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/imhimanshujainsinghai/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/imhimanshujainsinghai/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/imhimanshujainsinghai/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/imhimanshujainsinghai/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/imhimanshujainsinghai/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/imhimanshujainsinghai/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/imhimanshujainsinghai/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -454,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/imhimanshujainsinghai/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/imhimanshujainsinghai/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
