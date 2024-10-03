@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/imhimanshujainsinghai/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/imhimanshujainsinghai/DSA/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/imhimanshujainsinghai/DSA/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/imhimanshujainsinghai/DSA/tree/master/1013-fibonacci-number) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/imhimanshujainsinghai/DSA/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/imhimanshujainsinghai/DSA/tree/master/0060-permutation-sequence) |
 | [1013-fibonacci-number](https://github.com/imhimanshujainsinghai/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
