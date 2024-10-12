@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/imhimanshujainsinghai/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imhimanshujainsinghai/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1923-sentence-similarity-iii](https://github.com/imhimanshujainsinghai/DSA/tree/master/1923-sentence-similarity-iii) |
+| [2032-largest-odd-number-in-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imhimanshujainsinghai/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/imhimanshujainsinghai/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/imhimanshujainsinghai/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/imhimanshujainsinghai/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/imhimanshujainsinghai/DSA/tree/master/1829-maximum-units-on-a-truck) |
+| [2032-largest-odd-number-in-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imhimanshujainsinghai/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/imhimanshujainsinghai/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2591-frog-jump-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/2591-frog-jump-ii) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/imhimanshujainsinghai/DSA/tree/master/0368-largest-divisible-subset) |
 | [0523-continuous-subarray-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/imhimanshujainsinghai/DSA/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
