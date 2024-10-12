@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/imhimanshujainsinghai/DSA/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/imhimanshujainsinghai/DSA/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/imhimanshujainsinghai/DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/imhimanshujainsinghai/DSA/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/imhimanshujainsinghai/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/imhimanshujainsinghai/DSA/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/imhimanshujainsinghai/DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/imhimanshujainsinghai/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/imhimanshujainsinghai/DSA/tree/master/0257-binary-tree-paths) |
