@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/imhimanshujainsinghai/DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/imhimanshujainsinghai/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/imhimanshujainsinghai/DSA/tree/master/0290-word-pattern) |
 | [0523-continuous-subarray-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/imhimanshujainsinghai/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/0567-permutation-in-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/imhimanshujainsinghai/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/imhimanshujainsinghai/DSA/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/imhimanshujainsinghai/DSA/tree/master/0290-word-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/imhimanshujainsinghai/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/imhimanshujainsinghai/DSA/tree/master/0583-delete-operation-for-two-strings) |
