@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imhimanshujainsinghai/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/imhimanshujainsinghai/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/imhimanshujainsinghai/DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imhimanshujainsinghai/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/imhimanshujainsinghai/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/imhimanshujainsinghai/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/imhimanshujainsinghai/DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/imhimanshujainsinghai/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2591-frog-jump-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/2591-frog-jump-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/imhimanshujainsinghai/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/imhimanshujainsinghai/DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
