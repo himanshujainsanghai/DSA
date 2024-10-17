@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/imhimanshujainsinghai/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imhimanshujainsinghai/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/imhimanshujainsinghai/DSA/tree/master/1542-consecutive-characters) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/imhimanshujainsinghai/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1923-sentence-similarity-iii](https://github.com/imhimanshujainsinghai/DSA/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imhimanshujainsinghai/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/imhimanshujainsinghai/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/imhimanshujainsinghai/DSA/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/imhimanshujainsinghai/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/imhimanshujainsinghai/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imhimanshujainsinghai/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/imhimanshujainsinghai/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
