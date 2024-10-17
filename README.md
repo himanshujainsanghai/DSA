@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imhimanshujainsinghai/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/imhimanshujainsinghai/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/imhimanshujainsinghai/DSA/tree/master/1694-make-sum-divisible-by-p) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/imhimanshujainsinghai/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/imhimanshujainsinghai/DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/imhimanshujainsinghai/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imhimanshujainsinghai/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/imhimanshujainsinghai/DSA/tree/master/1542-consecutive-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/imhimanshujainsinghai/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/imhimanshujainsinghai/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/imhimanshujainsinghai/DSA/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imhimanshujainsinghai/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/imhimanshujainsinghai/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/imhimanshujainsinghai/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Trie
 |  |
 | ------- |
