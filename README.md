@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/imhimanshujainsinghai/DSA/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/imhimanshujainsinghai/DSA/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/imhimanshujainsinghai/DSA/tree/master/0060-permutation-sequence) |
 | [1013-fibonacci-number](https://github.com/imhimanshujainsinghai/DSA/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0090-subsets-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/imhimanshujainsinghai/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
