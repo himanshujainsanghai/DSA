@@ -1,5 +1,5 @@
 class Solution {
-private:
+    public:
     char solve(vector<char>& vis, char op) {
         if (op == '!') {
             return (vis[0] == 't') ? 'f' : 't';
