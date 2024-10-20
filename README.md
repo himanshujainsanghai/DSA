@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/imhimanshujainsinghai/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/imhimanshujainsinghai/DSA/tree/master/1170-shortest-common-supersequence) |
+| [1197-parsing-a-boolean-expression](https://github.com/imhimanshujainsinghai/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/imhimanshujainsinghai/DSA/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/1304-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/imhimanshujainsinghai/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/imhimanshujainsinghai/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/imhimanshujainsinghai/DSA/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/imhimanshujainsinghai/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1197-parsing-a-boolean-expression](https://github.com/imhimanshujainsinghai/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/imhimanshujainsinghai/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imhimanshujainsinghai/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/imhimanshujainsinghai/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/imhimanshujainsinghai/DSA/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/imhimanshujainsinghai/DSA/tree/master/0060-permutation-sequence) |
 | [1013-fibonacci-number](https://github.com/imhimanshujainsinghai/DSA/tree/master/1013-fibonacci-number) |
+| [1197-parsing-a-boolean-expression](https://github.com/imhimanshujainsinghai/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
