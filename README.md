@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/imhimanshujainsinghai/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/imhimanshujainsinghai/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/imhimanshujainsinghai/DSA/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/imhimanshujainsinghai/DSA/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/imhimanshujainsinghai/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0988-flip-equivalent-binary-trees](https://github.com/imhimanshujainsinghai/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/imhimanshujainsinghai/DSA/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/imhimanshujainsinghai/DSA/tree/master/1300-critical-connections-in-a-network) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/imhimanshujainsinghai/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/imhimanshujainsinghai/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
