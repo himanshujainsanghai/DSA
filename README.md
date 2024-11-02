@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/imhimanshujainsinghai/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/imhimanshujainsinghai/DSA/tree/master/0290-word-pattern) |
+| [0496-next-greater-element-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/imhimanshujainsinghai/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/0567-permutation-in-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/imhimanshujainsinghai/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/imhimanshujainsinghai/DSA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/imhimanshujainsinghai/DSA/tree/master/0542-01-matrix) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/imhimanshujainsinghai/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/imhimanshujainsinghai/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/imhimanshujainsinghai/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/imhimanshujainsinghai/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/imhimanshujainsinghai/DSA/tree/master/1002-maximum-width-ramp) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/imhimanshujainsinghai/DSA/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/imhimanshujainsinghai/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
