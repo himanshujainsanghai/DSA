@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/imhimanshujainsinghai/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
+| [0812-rotate-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/imhimanshujainsinghai/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/imhimanshujainsinghai/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/imhimanshujainsinghai/DSA/tree/master/1197-parsing-a-boolean-expression) |
@@ -624,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/imhimanshujainsinghai/DSA/tree/master/0225-implement-stack-using-queues) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
