@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/imhimanshujainsinghai/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/imhimanshujainsinghai/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imhimanshujainsinghai/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1755-defuse-the-bomb](https://github.com/imhimanshujainsinghai/DSA/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Array
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/imhimanshujainsinghai/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/imhimanshujainsinghai/DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1753-path-with-minimum-effort](https://github.com/imhimanshujainsinghai/DSA/tree/master/1753-path-with-minimum-effort) |
+| [1755-defuse-the-bomb](https://github.com/imhimanshujainsinghai/DSA/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/imhimanshujainsinghai/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1803-average-waiting-time](https://github.com/imhimanshujainsinghai/DSA/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/imhimanshujainsinghai/DSA/tree/master/1829-maximum-units-on-a-truck) |
