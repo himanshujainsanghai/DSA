@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/imhimanshujainsinghai/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/imhimanshujainsinghai/DSA/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/imhimanshujainsinghai/DSA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/imhimanshujainsinghai/DSA/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/imhimanshujainsinghai/DSA/tree/master/0890-lemonade-change) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/imhimanshujainsinghai/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/imhimanshujainsinghai/DSA/tree/master/0744-network-delay-time) |
+| [0787-sliding-puzzle](https://github.com/imhimanshujainsinghai/DSA/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/imhimanshujainsinghai/DSA/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/imhimanshujainsinghai/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/imhimanshujainsinghai/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/imhimanshujainsinghai/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/imhimanshujainsinghai/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/imhimanshujainsinghai/DSA/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/imhimanshujainsinghai/DSA/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/imhimanshujainsinghai/DSA/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/imhimanshujainsinghai/DSA/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0967-minimum-falling-path-sum) |
