@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/imhimanshujainsinghai/DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/imhimanshujainsinghai/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2793-count-the-number-of-complete-components](https://github.com/imhimanshujainsinghai/DSA/tree/master/2793-count-the-number-of-complete-components) |
+| [3189-find-champion-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3189-find-champion-ii) |
 ## Union Find
 |  |
 | ------- |
