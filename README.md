@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/imhimanshujainsinghai/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/imhimanshujainsinghai/DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/imhimanshujainsinghai/DSA/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/imhimanshujainsinghai/DSA/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/imhimanshujainsinghai/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/imhimanshujainsinghai/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/imhimanshujainsinghai/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/imhimanshujainsinghai/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/imhimanshujainsinghai/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/imhimanshujainsinghai/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/imhimanshujainsinghai/DSA/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/imhimanshujainsinghai/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/imhimanshujainsinghai/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0494-target-sum) |
