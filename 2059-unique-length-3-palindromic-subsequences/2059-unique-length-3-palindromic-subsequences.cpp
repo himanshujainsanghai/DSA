@@ -1,23 +1,19 @@
 class Solution {
 public:
     int countPalindromicSubsequence(string s) {
-        
-        unordered_map<char , int> firstOcc;
-        unordered_map<char , int> lastOcc;
         int n = s.size();
-
+        vector<int> firstOcc(26 ,-1) , lastOcc(26,-1);
         for(int i=0 ; i<n ; i++){
-            char it = s[i];
-            if(firstOcc.find(it) == firstOcc.end()){
+            int it = s[i]-'a';
+            if(firstOcc[it] == -1){
                 firstOcc[it] = i;
             }
             lastOcc[it] = i;
         }
         int count =0;
-        for(auto it: firstOcc){
-            char ele = it.first;
-            int l = it.second;
-            int r = lastOcc[ele];
+        for(int it=0 ; it<26 ; it++){
+            int l = firstOcc[it];
+            int r = lastOcc[it];
             if(l==r) continue;
             unordered_set<char> st;
             for(int i=l+1 ; i<=r-1 ; i++){
@@ -25,10 +21,8 @@ public:
             }
 
             count += st.size();
-
-
         }
-
         return count;
+        
     }
 };
