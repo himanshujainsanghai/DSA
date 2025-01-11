@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/imhimanshujainsinghai/DSA/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imhimanshujainsinghai/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/imhimanshujainsinghai/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/imhimanshujainsinghai/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/imhimanshujainsinghai/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/imhimanshujainsinghai/DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/imhimanshujainsinghai/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imhimanshujainsinghai/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/imhimanshujainsinghai/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imhimanshujainsinghai/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1502-construct-k-palindrome-strings](https://github.com/imhimanshujainsinghai/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/imhimanshujainsinghai/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/imhimanshujainsinghai/DSA/tree/master/1542-consecutive-characters) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/imhimanshujainsinghai/DSA/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/imhimanshujainsinghai/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/1304-longest-happy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/imhimanshujainsinghai/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/imhimanshujainsinghai/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/imhimanshujainsinghai/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/imhimanshujainsinghai/DSA/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/imhimanshujainsinghai/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/imhimanshujainsinghai/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/imhimanshujainsinghai/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
