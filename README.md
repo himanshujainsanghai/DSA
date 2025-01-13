@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/imhimanshujainsinghai/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/imhimanshujainsinghai/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/imhimanshujainsinghai/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/imhimanshujainsinghai/DSA/tree/master/3588-count-the-number-of-winning-sequences) |
 ## Sliding Window
 |  |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/imhimanshujainsinghai/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/imhimanshujainsinghai/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Trie
 |  |
 | ------- |
