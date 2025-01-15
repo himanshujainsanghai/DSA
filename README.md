@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imhimanshujainsinghai/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/imhimanshujainsinghai/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/imhimanshujainsinghai/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/imhimanshujainsinghai/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/imhimanshujainsinghai/DSA/tree/master/1502-construct-k-palindrome-strings) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/imhimanshujainsinghai/DSA/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/imhimanshujainsinghai/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/imhimanshujainsinghai/DSA/tree/master/1197-parsing-a-boolean-expression) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/imhimanshujainsinghai/DSA/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/imhimanshujainsinghai/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/imhimanshujainsinghai/DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/imhimanshujainsinghai/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
