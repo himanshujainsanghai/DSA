@@ -1,6 +1,9 @@
 class Solution {
 public:
     bool doesValidArrayExist(vector<int>& derived) {
+        ios::sync_with_stdio(false); // Disable synchronization with C I/O
+        cin.tie(NULL);               // Untie cin from cout
+        cout.tie(NULL);
         int n = derived.size();
         // vector<int> org(n , 0);
         // // case 1 org[0] = 0;
