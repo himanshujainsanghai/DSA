@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/imhimanshujainsinghai/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/imhimanshujainsinghai/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/imhimanshujainsinghai/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/imhimanshujainsinghai/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/imhimanshujainsinghai/DSA/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/imhimanshujainsinghai/DSA/tree/master/0127-word-ladder) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/imhimanshujainsinghai/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/imhimanshujainsinghai/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/imhimanshujainsinghai/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/imhimanshujainsinghai/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/imhimanshujainsinghai/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0100-same-tree) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/imhimanshujainsinghai/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/imhimanshujainsinghai/DSA/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/imhimanshujainsinghai/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/imhimanshujainsinghai/DSA/tree/master/0131-palindrome-partitioning) |
@@ -685,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/imhimanshujainsinghai/DSA/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/imhimanshujainsinghai/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/imhimanshujainsinghai/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/imhimanshujainsinghai/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/imhimanshujainsinghai/DSA/tree/master/0542-01-matrix) |
