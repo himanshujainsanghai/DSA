@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/imhimanshujainsinghai/DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/imhimanshujainsinghai/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/imhimanshujainsinghai/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/imhimanshujainsinghai/DSA/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/imhimanshujainsinghai/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/imhimanshujainsinghai/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/imhimanshujainsinghai/DSA/tree/master/2586-longest-square-streak-in-an-array) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/imhimanshujainsinghai/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/imhimanshujainsinghai/DSA/tree/master/0225-implement-stack-using-queues) |
+| [2434-design-a-number-container-system](https://github.com/imhimanshujainsinghai/DSA/tree/master/2434-design-a-number-container-system) |
 ## Iterator
 |  |
 | ------- |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/imhimanshujainsinghai/DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/imhimanshujainsinghai/DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/imhimanshujainsinghai/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2434-design-a-number-container-system](https://github.com/imhimanshujainsinghai/DSA/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/imhimanshujainsinghai/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/imhimanshujainsinghai/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/imhimanshujainsinghai/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -906,4 +909,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/imhimanshujainsinghai/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/imhimanshujainsinghai/DSA/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
