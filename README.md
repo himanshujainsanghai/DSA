@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/imhimanshujainsinghai/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/imhimanshujainsinghai/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/imhimanshujainsinghai/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/imhimanshujainsinghai/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/imhimanshujainsinghai/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/imhimanshujainsinghai/DSA/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/imhimanshujainsinghai/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/imhimanshujainsinghai/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/imhimanshujainsinghai/DSA/tree/master/0225-implement-stack-using-queues) |
+| [1477-product-of-the-last-k-numbers](https://github.com/imhimanshujainsinghai/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/imhimanshujainsinghai/DSA/tree/master/2434-design-a-number-container-system) |
 ## Iterator
 |  |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/imhimanshujainsinghai/DSA/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/imhimanshujainsinghai/DSA/tree/master/1013-fibonacci-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/imhimanshujainsinghai/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/imhimanshujainsinghai/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/imhimanshujainsinghai/DSA/tree/master/2716-prime-subtraction-operation) |
@@ -825,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/imhimanshujainsinghai/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/imhimanshujainsinghai/DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/imhimanshujainsinghai/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/imhimanshujainsinghai/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/imhimanshujainsinghai/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/imhimanshujainsinghai/DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imhimanshujainsinghai/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -924,4 +928,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/imhimanshujainsinghai/DSA/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/imhimanshujainsinghai/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
