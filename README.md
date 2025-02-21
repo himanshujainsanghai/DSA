@@ -859,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0090-subsets-ii) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/imhimanshujainsinghai/DSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/imhimanshujainsinghai/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/imhimanshujainsinghai/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/imhimanshujainsinghai/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
