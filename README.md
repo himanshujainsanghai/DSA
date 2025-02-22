@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/imhimanshujainsinghai/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/imhimanshujainsinghai/DSA/tree/master/2716-prime-subtraction-operation) |
+| [3192-maximum-xor-product](https://github.com/imhimanshujainsinghai/DSA/tree/master/3192-maximum-xor-product) |
 | [3195-separate-black-and-white-balls](https://github.com/imhimanshujainsinghai/DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/imhimanshujainsinghai/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/imhimanshujainsinghai/DSA/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/imhimanshujainsinghai/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3192-maximum-xor-product](https://github.com/imhimanshujainsinghai/DSA/tree/master/3192-maximum-xor-product) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -871,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/imhimanshujainsinghai/DSA/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/imhimanshujainsinghai/DSA/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/imhimanshujainsinghai/DSA/tree/master/2792-neighboring-bitwise-xor) |
+| [3192-maximum-xor-product](https://github.com/imhimanshujainsinghai/DSA/tree/master/3192-maximum-xor-product) |
 | [3291-find-if-array-can-be-sorted](https://github.com/imhimanshujainsinghai/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/imhimanshujainsinghai/DSA/tree/master/3394-minimum-array-end) |
