@@ -868,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/imhimanshujainsinghai/DSA/tree/master/0191-number-of-1-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/imhimanshujainsinghai/DSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/imhimanshujainsinghai/DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/imhimanshujainsinghai/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/imhimanshujainsinghai/DSA/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/imhimanshujainsinghai/DSA/tree/master/0191-number-of-1-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/imhimanshujainsinghai/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Enumeration
 |  |
