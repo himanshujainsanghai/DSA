@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/imhimanshujainsinghai/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/imhimanshujainsinghai/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/imhimanshujainsinghai/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/imhimanshujainsinghai/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/imhimanshujainsinghai/DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/imhimanshujainsinghai/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/imhimanshujainsinghai/DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3227-find-missing-and-repeated-values](https://github.com/imhimanshujainsinghai/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/imhimanshujainsinghai/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/imhimanshujainsinghai/DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/imhimanshujainsinghai/DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/imhimanshujainsinghai/DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/imhimanshujainsinghai/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Topological Sort
 |  |
 | ------- |
@@ -843,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/imhimanshujainsinghai/DSA/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/imhimanshujainsinghai/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3192-maximum-xor-product](https://github.com/imhimanshujainsinghai/DSA/tree/master/3192-maximum-xor-product) |
+| [3227-find-missing-and-repeated-values](https://github.com/imhimanshujainsinghai/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
