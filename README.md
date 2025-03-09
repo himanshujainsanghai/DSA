@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3483-alternating-groups-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Array
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3427-special-array-ii) |
+| [3483-alternating-groups-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
