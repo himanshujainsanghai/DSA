@@ -1,52 +1,46 @@
 class Solution {
 public:
+    typedef pair<long long , int> P; //weight(time), node
+    int M = 1e9+7;
     int countPaths(int n, vector<vector<int>>& roads) {
-
-        constexpr int mod = 1e9 + 7;
-
-
-        vector<pair<int , int>> adj[n];
-        for(auto it:roads){
-            adj[it[0]].push_back({it[1] , it[2]});
-            adj[it[1]].push_back({it[0] , it[2]});
-
+        
+        unordered_map<int , vector<pair<int , int>>> adj;
+        for(auto &road :roads){
+            int u = road[0];
+            int v = road[1];
+            int time = road[2];
+            adj[u].push_back({v , time});
+            adj[v].push_back({u , time});
         }
 
-
-        vector<long long> dist(n, LLONG_MAX);
-        vector<int> ways(n ,0);
-        dist[0] = 0;
-        ways[0] = 1;
-
-        priority_queue<pair<long long , int > , vector<pair<long long , int>> , greater<pair<long long , int>>> pq;
+        priority_queue<P , vector<P> , greater<P>> pq;
+        vector<long long> result(n , LLONG_MAX);
+        vector<int> count(n ,0);
+        result[0]=0;
+        count[0]=1;
         pq.push({0 , 0});
 
         while(!pq.empty()){
-            long long dis = pq.top().first;
-            int node = pq.top().second;
-            // auto [dis , node ] = pq.top();
+            int currNode = pq.top().second;
+            long long currWeight = pq.top().first;
             pq.pop();
 
-            if(dis > dist[node]) continue;
+            for(auto &vec:adj[currNode]){
+                int ngbr = vec.first;
+                int time = vec.second;
 
-            for(auto iter: adj[node]){
-                int adjnode = iter.first;
-                int edw = iter.second;
-                long long newd = edw + dis;
-                // 1st time arrival
-                if(newd <dist[adjnode]){
-                    dist[adjnode] = newd;
-                    ways[adjnode] = ways[node];
-                    pq.push({newd , adjnode}); 
+                if(currWeight + time < result[ngbr]){
+                    result[ngbr] = currWeight + time;
+                    pq.push({currWeight + time , ngbr});
+                    count[ngbr] = count[currNode];
                 }
-                // next arrival
-
-                else if(newd == dist[adjnode]){
-                    ways[adjnode] = (ways[adjnode] + ways[node]) % mod; 
+                else if(currWeight + time == result[ngbr]){
+                    count[ngbr] = (count[ngbr]+count[currNode])%M;
                 }
             }
+
         }
-        return ways[n-1] % mod;
-        
+
+        return count[n-1];
     }
 };
