@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/imhimanshujainsinghai/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/imhimanshujainsinghai/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
 | ------- |
