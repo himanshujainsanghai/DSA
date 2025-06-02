@@ -1,34 +1,38 @@
 class Solution {
 public:
-    int candy(vector<int>& ratings) {
-        int n = ratings.size();
-        int sum =1 , i=1;
-        while(i<n){
-            if(ratings[i] == ratings[i-1]){
-                sum++;
-                i++;
-            }
-            int peak =1;
-            // upward curve
-            while(i<n && ratings[i] > ratings[i-1] ){
+    int candy(vector<int>& arr) {
+        int n = arr.size();
+        int peak = 1;
+        vector<int> left(n , 0);
+        left[0]=1;
+        for(int i=1 ; i<n ; i++){
+            if(arr[i]>arr[i-1]){
                 peak++;
-                sum+=peak;
-                i++;
 
             }
-            int down =1;
-            // downward curve
-            while(i<n && ratings[i] < ratings[i-1]){
-                sum+=down;
-                down++;
-                i++;
+            else{
+                peak = 1;
             }
-            // balancing
-            if(down> peak){
-                sum += down -peak;
-            }
+
+            left[i] = peak;
+            
         }
-        return sum;
-        
+        peak=1;
+        vector<int> right(n ,0);
+        right[n-1]=1;
+        for(int i=n-2 ; i>=0 ; i--){
+            if(arr[i]>arr[i+1]){
+                peak++;
+            }
+            else{
+                peak =1;
+            }
+            right[i]=peak;
+        }
+        int ans = 0;
+        for(int i=0 ; i<n ; i++){
+            ans += max(right[i] , left[i]);
+        }
+        return ans;
     }
 };
