@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/imhimanshujainsinghai/DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/imhimanshujainsinghai/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/imhimanshujainsinghai/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3074-apple-redistribution-into-boxes](https://github.com/imhimanshujainsinghai/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/imhimanshujainsinghai/DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/imhimanshujainsinghai/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/imhimanshujainsinghai/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/imhimanshujainsinghai/DSA/tree/master/2716-prime-subtraction-operation) |
+| [3074-apple-redistribution-into-boxes](https://github.com/imhimanshujainsinghai/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3192-maximum-xor-product](https://github.com/imhimanshujainsinghai/DSA/tree/master/3192-maximum-xor-product) |
 | [3195-separate-black-and-white-balls](https://github.com/imhimanshujainsinghai/DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/imhimanshujainsinghai/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/imhimanshujainsinghai/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/imhimanshujainsinghai/DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3074-apple-redistribution-into-boxes](https://github.com/imhimanshujainsinghai/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3291-find-if-array-can-be-sorted](https://github.com/imhimanshujainsinghai/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/imhimanshujainsinghai/DSA/tree/master/3430-count-days-without-meetings) |
 ## Dynamic Programming
