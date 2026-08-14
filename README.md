@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/imhimanshujainsinghai/DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/imhimanshujainsinghai/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/imhimanshujainsinghai/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/imhimanshujainsinghai/DSA/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/imhimanshujainsinghai/DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/imhimanshujainsinghai/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/imhimanshujainsinghai/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/imhimanshujainsinghai/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/imhimanshujainsinghai/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/imhimanshujainsinghai/DSA/tree/master/0312-burst-balloons) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/imhimanshujainsinghai/DSA/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/imhimanshujainsinghai/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/imhimanshujainsinghai/DSA/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/imhimanshujainsinghai/DSA/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/imhimanshujainsinghai/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/imhimanshujainsinghai/DSA/tree/master/0455-assign-cookies) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/imhimanshujainsinghai/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/imhimanshujainsinghai/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/imhimanshujainsinghai/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/imhimanshujainsinghai/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imhimanshujainsinghai/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -892,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/imhimanshujainsinghai/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/imhimanshujainsinghai/DSA/tree/master/0062-unique-paths) |
+| [0268-missing-number](https://github.com/imhimanshujainsinghai/DSA/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/imhimanshujainsinghai/DSA/tree/master/0368-largest-divisible-subset) |
 | [0523-continuous-subarray-sum](https://github.com/imhimanshujainsinghai/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/imhimanshujainsinghai/DSA/tree/master/0670-maximum-swap) |
@@ -952,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/imhimanshujainsinghai/DSA/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/imhimanshujainsinghai/DSA/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/imhimanshujainsinghai/DSA/tree/master/0268-missing-number) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/imhimanshujainsinghai/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/imhimanshujainsinghai/DSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/imhimanshujainsinghai/DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
